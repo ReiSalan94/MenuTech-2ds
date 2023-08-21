@@ -62,7 +62,7 @@ main {
     line-height: 20px;
     font-size: 20px;
     padding: 20px;
-}
+} 
 .price {
     font-size: 40px;
     line-height: 40px;
@@ -76,4 +76,16 @@ main {
 .thumb{
     height: 240px;
     overflow: hidden;
+}
+
+#lanches,#bebidas,#outros {
+    background: #000;
+    color: #fff;
+    text-align: center;
+    font-size: 30px;
+    padding: 30px;
+}
+
+.description p {
+    height: 70px;
 }
